@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TalDoRck
+- 👀 I’m interested for start in python
